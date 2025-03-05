@@ -1,6 +1,7 @@
 ﻿# Music Recommendation System with Clustering and Classification
 
-![Project Banner](![images](https://github.com/user-attachments/assets/7fa94c5f-320e-4f1e-90c6-f6e6d867a644))
+![Uploading images.png…]()
+
 
 This project involves building a music recommendation system using advanced machine learning techniques, including clustering and classification. The analysis leverages data preprocessing, dimensionality reduction, and model training on genre and song data to create insightful visualizations and accurate predictions.
 
